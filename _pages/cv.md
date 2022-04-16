@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, Harvey Mudd College, 2019
+* M.S. in Aeronautics and Astronautics, MIT, 2021
+* Current Ph.D Candidate in Aeronautics and Astronautics, MIT, 2024 (expected)
 
-Work experience
+Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Draper Scholar, 2020 - Present
+* Karen L. Von Damm Graduent Student Fellowship, 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+{%Work experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2018: Aerospace Corporation Contracted at NASA Johnson Space Center 
+  * Engineering Intern
+  * Worked on-site at Johnson Space Center on technical projects for NASA’s EVA Hardware and Spacesuit Teams
+%}
 
 Publications
 ======
@@ -56,4 +47,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-President of the department Resources for Easing Friction and Stress (dREFS) for MIT AeroAstro
+* Social Chair of the MIT Graduate Women in Aerospace Engineering Organization
