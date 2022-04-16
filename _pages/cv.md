@@ -20,13 +20,6 @@ Honors
 * Draper Scholar, 2020 - Present
 * Karen L. Von Damm Graduent Student Fellowship, 2019
 
-{%Work experience
-======
-* Summer 2018: Aerospace Corporation Contracted at NASA Johnson Space Center 
-  * Engineering Intern
-  * Worked on-site at Johnson Space Center on technical projects for NASA’s EVA Hardware and Spacesuit Teams
-%}
-
 Publications
 ======
   <ul>{% for post in site.publications %}
