@@ -12,4 +12,4 @@ This paper analyzes and compares three simple and low-cost planar nanophotonic a
 
 [Download paper here](https://opg.optica.org/osac/fulltext.cfm?uri=osac-3-12-3556&id=444776)
 
-Citation: Morgan G. Blevins, Anna P. M. Michel, and Svetlana V. Boriskina, "Planar nanophotonic structures for intensity based readout refractive index sensing applied to dissolved methane detection," OSA Continuum 3, 3556-3573 (2020)
+Citation: **Blevins, M.G.**, Michel, A.P.M., and Boriskina, S.V. "Planar nanophotonic structures for intensity based readout refractive index sensing applied to dissolved methane detection," OSA Continuum 3, 3556-3573 (2020)
