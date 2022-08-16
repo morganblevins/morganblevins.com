@@ -18,6 +18,7 @@ Education
 Honors
 ======
 * Draper Scholar, 2020 - Present
+* MIT Communication Lab Fellow, 2022 - Present
 * Karen L. Von Damm Graduent Student Fellowship, 2019
 
 Publications
