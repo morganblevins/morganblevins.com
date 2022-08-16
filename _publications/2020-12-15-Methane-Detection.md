@@ -1,7 +1,6 @@
 ---
 title: "Planar nanophotonic structures for intensity based readout refractive index sensing applied to dissolved methane detection"
 collection: publications
-permalink: [/publication/2020-12-15-Methane-Detection](https://opg.optica.org/osac/fulltext.cfm?uri=osac-3-12-3556&id=444776)
 excerpt: 'This paper analyzes and compares three simple and low-cost planar nanophotonic and plasmonic structures as optical transducers for measuring the refractive index change of polydimethylsiloxane (PDMS) polymer films doped with cryptophane-A molecules, which selectively trap methane.'
 date: 2020-12-15
 venue: 'OSA Continuum'
