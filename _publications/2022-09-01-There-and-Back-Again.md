@@ -9,6 +9,5 @@ paperurl: ''
 citation: 'S.V. Boriskina, **M. Blevins**, S. Pajovic, There and Back Again: the nonreciprocal adventures of light, Opt. Photon. News, Sept. 2022.'
 ---
 
-[Download paper here]()
 
 Citation: S.V. Boriskina, **M. Blevins**, S. Pajovic, There and Back Again: the nonreciprocal adventures of light, Opt. Photon. News, Sept. 2022.
