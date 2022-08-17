@@ -13,6 +13,7 @@ Morgan is a PhD candidate at MIT. She is a member of the Multifuntional Metamate
 Research focus
 ======
 **Broken inversion symmetry and broken time-reversal symmetry materials** In this research I look at the non-reciprocal optical and electronic behaviors of materials via strain engineering and application of external fields. This work is based in modeling and experiments.
+
 **Energy harvesting and photodetection** In this research I work on developing materials for infrared detection via strain engineering, using the flexoelectric effect. This work addresses the need for efficient infrared detectors, particularly for energy generation via thermal radiation harvesting. This research has an experimental focus, working with 2D semiconductors and nanofabrication techniques to evaluate candidate materials for thermo-photovolatics. 
 
 Interests
