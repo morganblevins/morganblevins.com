@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-nanophotonics-course
 venue: "MIT, Mechanical Engineering"
-date: 
+date: 2022-09-01
 location: "Cambridge, MA"
 ---
 
