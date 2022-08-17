@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, Harvey Mudd College, 2019
+* Ph.D Candidate in Aeronautics and Astronautics, MIT, 2024 (expected)
 * M.S. in Aeronautics and Astronautics, MIT, 2021
-* Current Ph.D Candidate in Aeronautics and Astronautics, MIT, 2024 (expected)
+* B.S. in Engineering, Harvey Mudd College, 2019
 
 Honors
 ======
