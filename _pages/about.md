@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Morgan is a PhD candidate at MIT. She is a member of the Multifuntional Metamaterials Laboratory, advised by [Dr. Svetlana Boriskina](https://sboriskina.mit.edu/). Morgan studies nanophotonics and light-matter interaction, with applications in energy harvesting, photodetection, and non reciprocal transport. Morgan is supported by [Draper Labs](https://www.draper.com/) as a member of their scholars program.
+Morgan is a PhD candidate at MIT. She is a member of the Multifuntional Metamaterials Laboratory, advised by [Dr. Svetlana Boriskina](https://sboriskina.mit.edu/). Morgan studies nanophotonics and light-matter interaction, with applications in energy harvesting, photodetection, and non reciprocal transport. Morgan is supported by [Draper](https://www.draper.com/) as a member of their scholars program.
 
 Research focus
 ======
@@ -18,7 +18,7 @@ Research focus
 
 Interests
 ------
-I am a distance runner with [Tracksmith's](https://www.tracksmith.com/) amateur [Boston Hares](https://www.strava.com/clubs/582006) team.
+I am a [distance runner](https://www.strava.com/athletes/15721680) with [Tracksmith's](https://www.tracksmith.com/) amateur Boston Hares team.
 
 **Contact**
 
