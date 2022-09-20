@@ -1,5 +1,5 @@
 ---
-title: "Photonic Metamaterials: course development"
+title: "2.S987 Photonic Metamaterials: Course development"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-nanophotonics-course
