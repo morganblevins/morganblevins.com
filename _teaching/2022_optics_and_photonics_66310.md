@@ -1,5 +1,5 @@
 ---
-title: "6.6310 Optics and Photonics"
+title: "6.6310 Optics and Photonics: Teaching Assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-nanophotonics-course
