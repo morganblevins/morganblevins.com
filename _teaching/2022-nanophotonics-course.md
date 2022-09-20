@@ -8,4 +8,4 @@ date: 2022-09-01
 location: "Cambridge, MA"
 ---
 
-Course development for MIT Mechanical Engineering graduate level nanophotonics and metamaterials class.
+Course development for MIT Mechanical Engineering graduate level nanophotonics and metamaterials class with Professor Svetlana Boriskina
