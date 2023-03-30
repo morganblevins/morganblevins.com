@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Aeronautics and Astronautics, MIT, 2024 (expected)
-* M.S. in Aeronautics and Astronautics, MIT, 2021
+* Ph.D Candidate in Electrical Engineering, MIT, 2025 (expected)
+* M.S. in Aeronautics and Astronautics, MIT-WHOI Joint Program, 2021
 * B.S. in Engineering, Harvey Mudd College, 2019
 
 Honors
 ======
 * Draper Scholar, 2020 - Present
 * MIT Communication Lab Fellow, 2022 - Present
+* NSF GRFP Awardee 2020
 * Karen L. Von Damm Graduent Student Fellowship, 2019
 
 Publications
