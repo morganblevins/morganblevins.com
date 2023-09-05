@@ -11,7 +11,7 @@ author_profile: true
 
 PhD
 ======
-* **Blevins, M.G.** and Boriskina, S.V., Control of nonreciprocal surface plasmon polariton transport in Weyl semimetals via optical pumping and strain engineering, EQ02.10.02, MRS Fall 2022, Boston, MA </a>.</u>, Sept. 2022.
+* **Blevins, M.G.** and Boriskina, S.V., Control of nonreciprocal surface plasmon polariton transport in Weyl semimetals via optical pumping and strain engineering, EQ02.10.02, MRS Fall 2022, Boston, MA, Sept. 2022.
 * Boriskina, S.V., **Blevins, M.G.**, Pajovic, S., There and Back Again: the nonreciprocal adventures of light, <u><a href="{{https://doi.org/10.1364/OPN.33.9.000046}}"> Opt. Photon. News </a>.</u>, Sept. 2022.
 
 Masters
