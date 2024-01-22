@@ -21,26 +21,4 @@ Honors
 * MIT Communication Lab Fellow, 2022 - Present
 * NSF GRFP Awardee 2020
 * Karen L. Von Damm Graduent Student Fellowship, 2019
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Co-President of the department Resources for Easing Friction and Stress (dREFS) for MIT AeroAstro
-* Social Chair of the MIT Graduate Women in Aerospace Engineering Organization
