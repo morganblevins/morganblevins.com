@@ -13,11 +13,16 @@ Optics and Photonics
 ======
 * [Photonic Crystals: Molding the Flow of Light]([url](http://ab-initio.mit.edu/book/)) second edition by John D. Joannopoulos, Steven G. Johnson, Joshua N. Winn, and Robert D. Meade
 * Waves and Fields in Optoelectronics by Hermann Haus
-* Optical Waves in Crystals by Amnon Yariv and Pochi Yeh 
+
+Wave propagation in isotropic and anisotropic media, reflections, scattering matrices guided modes, coupled mode theory
+* Optical Waves in Crystals by Amnon Yariv and Pochi Yeh
+
+Jones matrices, dielectric tensor, gyrotropic media, periodic layered media, guided modes and integrated optics
 
 Quantum Mechanics
 ======
 * [Lecture Notes on Quantum Mechanics]([url](https://people.nscl.msu.edu/~pratt/phy851/lectures/lectures_full.pdf)) MSU PHY 851/852 by Scott Pratt
+
 Ch. 6 Approximation Methods is very helpful for Time-Dependent Perturbation Theory
 * Introduction to Quantum Mechanics A Time-Dependent Perspective by David J. Tannor 
   
