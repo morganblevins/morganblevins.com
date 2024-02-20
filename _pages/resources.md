@@ -17,7 +17,7 @@ Optics and Photonics
 
 Quantum Mechanics
 ======
-* [Lecture Notes on Quantum Mechanics]([url](https://people.nscl.msu.edu/~pratt/phy851/lectures/lectures_full.pdf)) PHY 851/852 – 2020/2021/2022, Scott Pratt, Department of Physics and Astronomy Michigan State University
+* [Lecture Notes on Quantum Mechanics]([url](https://people.nscl.msu.edu/~pratt/phy851/lectures/lectures_full.pdf)) MSU PHY 851/852 by Scott Pratt
 Ch. 6 Approximation Methods is very helpful for Time-Dependent Perturbation Theory
 * Introduction to Quantum Mechanics A Time-Dependent Perspective by David J. Tannor 
   
