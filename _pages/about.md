@@ -14,6 +14,8 @@ Research focus
 ======
 **Broken inversion symmetry and broken time-reversal symmetry materials** I look at the non-reciprocal optical and electronic behaviors inherent to condensed matter materials as well as those enhanced or unlocked via strain engineering and the application of external fields. This work involves theory development and experiments.
 
+<img src="images/bio-photo.jpg?raw=true"/>
+
 **Energy harvesting and photodetection** I work on developing materials for infrared detection via strain engineering, using the "flexoelectric" effect. This work addresses the need for efficient infrared detectors, particularly for energy generation via thermal radiation harvesting. This research has an experimental focus, working with 2D semiconductors and topological materials and nanofabrication techniques to evaluate candidate materials for thermo-photovolatics. 
 
 Interests
