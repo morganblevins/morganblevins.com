@@ -6,7 +6,10 @@ main:
     
   - title: "Teaching"
     url: /teaching/
-    
+
+  - title: "Resources"
+    url: /resources/
+  
   - title: "CV"
     url: /cv/
     
