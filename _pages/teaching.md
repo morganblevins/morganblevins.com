@@ -8,8 +8,8 @@ author_profile: true
 
 Photonic Metamaterials (2.719) Course development & Teaching Assistant
 ======
-* Graduate course, MIT, Mechanical Engineering, 2023
-* Course development as well as Teaching Assistant duties for MIT Mechanical Engineering graduate level nanophotonics and metamaterials class with Prof. Svetlana Boriskina
+* Graduate course, MIT, Mechanical Engineering, 2023 & 2024
+* Created 5 problem sets, contributed to course development and provided Teaching Assistant duties for MIT Mechanical Engineering graduate level nanophotonics and metamaterials class with Prof. Svetlana Boriskina
 
 "Provides a review of Maxwell's equations and the Helmholtz wave equation. Optical devices: waveguides and cavities, phase and group velocity, causality, and scattering. Light-matter interaction in bulk, surface, and subwavelength-structured matter. Effective media, dispersion relationships, wavefronts and rays, eikonal description of light propagation, phase singularities. Transformation optics, gradient effective media. Includes description of the experimental tools for realization and measurement of photonic materials and effects. Students taking graduate version complete additional assignments."
 
