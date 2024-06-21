@@ -24,6 +24,8 @@ Fellowships and Awards
 
 **Presentations**
 ======
+* GRC on Plasmonics & Nanophotonics 2024
+* CLEO 2024
 * MRS 2023
 * Waves in Time Varying Media 2023
 * MIT GW6 Summit 2023 - Awarded "Audience's Favorite Poster" 
