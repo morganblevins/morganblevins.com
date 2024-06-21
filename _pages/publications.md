@@ -11,7 +11,9 @@ author_profile: true
 
 PhD
 ======
-* **Blevins, M.G.** and Boriskina, S.V., Plasmon Fizeau drag in 3D Dirac and Weyl semimetals,<u><a href="{{[https://doi.org/10.1364/OPN.33.9.000046](https://arxiv.org/abs/2310.12938)}}"> arXiv preprint arXiv:2310.12938 </a>.</u> , Oct. 2023.
+* **Blevins, M.G.** and Boriskina, S.V., Current-biased Weyl and Dirac Semimetals as Tunable Nonreciprocal Plasmonic Platforms, Conference on Lasers and Electro-Optics (CLEO), Charlotte, NC 2024
+* **Blevins, M.G.** and Boriskina, S.V., Plasmon Fizeau drag in 3D Dirac and Weyl semimetals,<u><a href="{{https://doi.org/10.1021/acsphotonics.3c01416
+}}"> ACS Photonics</a></u>, 024, 11, 2, 537–549 2024
 * **Blevins, M.G.** and Boriskina, S.V., Control of nonreciprocal surface plasmon polariton transport in Weyl semimetals via optical pumping and strain engineering, EQ02.10.02, MRS Fall 2022, Boston, MA, Sept. 2022.
 * Boriskina, S.V., **Blevins, M.G.**, Pajovic, S., There and Back Again: the nonreciprocal adventures of light, <u><a href="{{https://doi.org/10.1364/OPN.33.9.000046}}"> Opt. Photon. News </a>.</u>, Sept. 2022.
 
