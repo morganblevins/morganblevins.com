@@ -6,30 +6,28 @@ author_profile: true
 redirect_from:
   - /resources
 ---
-
 {% include base_path %}
 
-Optics and Photonics
-======
-* [Photonic Crystals: Molding the Flow of Light]([url](http://ab-initio.mit.edu/book/)) second edition by John D. Joannopoulos, Steven G. Johnson, Joshua N. Winn, and Robert D. Meade
-* Waves and Fields in Optoelectronics by Hermann Haus
+<h1 class="text-3xl font-bold text-center mb-8 text-black">My Favorite Textbooks and Resources</h1>
 
-Wave propagation in isotropic and anisotropic media, reflections, scattering matrices guided modes, coupled mode theory
-* Optical Waves in Crystals by Amnon Yariv and Pochi Yeh
+<div class="space-y-8">
+  {% assign grouped_resources = site.data.resources | group_by: "section" %}
+  {% for group in grouped_resources %}
+    <section>
+      <h2 class="text-xl text-black mb-4 uppercase">{{ group.name }}</h2>
+      <hr class="my-4 border-t border-gray-300" />
 
-Jones matrices, dielectric tensor, gyrotropic media, periodic layered media, guided modes and integrated optics
-
-Quantum Mechanics
-======
-* [Lecture Notes on Quantum Mechanics]([url](https://people.nscl.msu.edu/~pratt/phy851/lectures/lectures_full.pdf)) MSU PHY 851/852 by Scott Pratt
-
-Ch. 6 Approximation Methods is very helpful for Time-Dependent Perturbation Theory
-* Introduction to Quantum Mechanics A Time-Dependent Perspective by David J. Tannor 
-  
-Solid state and Condensed Matter
-======
-* Quantum Theory of Materials by Efthimios Kaxiras and John D. Joannopoulos
-
-History
-======
-* Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
+      <ul class="list-disc pl-5 space-y-2">
+        {% for resource in group.items %}
+          <li>
+            <p class="text-md">
+              <strong>{{ resource.title }}</strong>. <i>{{ resource.author }}</i>. 
+              {% if resource.edition %}{{ resource.edition }} edition, {% endif %}
+              {{ resource.year }}. {{ resource.publisher }}.
+            </p>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>
